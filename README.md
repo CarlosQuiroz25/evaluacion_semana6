@@ -22,8 +22,14 @@ Antes de ejecutar el programa, asegúrate de tener instalado lo siguiente:
 
 ## Instalación
 
-1. Clona este repositorio o descarga los archivos en tu máquina local.
-2. Abre una terminal y navega al directorio del proyecto.
+1. Abre la terminal y clona este repositorio o descarga los archivos en tu máquina local.
+   ```bash
+   git clone https://github.com/CarlosQuiroz25/evaluacion_semana6.git
+   
+2. Navega al directorio del proyecto y activa el entorno virtual.
+   ```bash
+    venv\Scripts\Activate.ps1
+   
 3. Instala las dependencias ejecutando el siguiente comando:
 
    ```bash
